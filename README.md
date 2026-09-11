@@ -37,10 +37,10 @@ flowchart LR
 
 | Etapa | Años | Enfoque | Estado |
 |---|---|---|---|
-| **Early Career Flow** | 1–2 | Trabajo colaborativo y habilidades blandas (comunicación, retroalimentación, trabajo en equipo), usando la tecnología como medio, no como fin. Lo técnico se aprende de forma autodidacta. | Año 1: módulo detallado en documento aparte ("Build to Ship"). Año 2: por definir. |
+| **Early Career Flow** | 1–2 | Trabajo colaborativo y habilidades blandas (comunicación, retroalimentación, trabajo en equipo), usando la tecnología como medio, no como fin. Lo técnico se aprende de forma autodidacta. | Año 1: módulo detallado en documento aparte ("Build to Understand")|
 | **Internship (plus)** | 3–4 | Integración al departamento de Vinculación mediante servicio social, prácticas profesionales u otras modalidades. | Es un plus del programa, sujeto a selección; no garantizado para todos los participantes. Por definir. |
 
-> ⚠️ **Nota:** el ingreso al programa no garantiza el paso a la etapa de Internship; dicho tránsito está sujeto a un proceso de selección.
+> **Nota:** el ingreso al programa no garantiza el paso a la etapa de Internship; dicho tránsito está sujeto a un proceso de selección.
 
 ---
 
@@ -52,7 +52,7 @@ Este documento cubre solo el **marco conceptual** de Early Career Flow. El detal
 
 ```mermaid
 flowchart TD
-    P["PROGRAMA\nEarly Career Flow\n(2-3 módulos, por confirmar)"] --> M["MÓDULO\nEj. Build to Ship"]
+    P["PROGRAMA\nEarly Career Flow\n(2-3 módulos, por confirmar)"] --> M["MÓDULO\nEj. Build to Understand"]
     M --> B1["Bloque:\nHerramientas Digitales"]
     M --> B2["Bloque:\nEquipos Colaborativos"]
     M --> B3["Bloque:\nShip Standard"]
@@ -64,14 +64,14 @@ flowchart TD
 | Nivel | Descripción |
 |---|---|
 | **Programa** | Early Career Flow — formado por 2 o 3 módulos en total (aún por confirmar el número exacto). |
-| **Módulo** | Una unidad completa dentro del programa. Ejemplo: **Build to Ship**. |
-| **Bloques** | Las partes que conforman un módulo. Dentro de Build to Ship: Herramientas Digitales, Equipos Colaborativos, Ship Standard, Comunicación Efectiva, Storytelling, etc. |
+| **Módulo** | Una unidad completa dentro del programa. Ejemplo: **Build to Understand**. |
+| **Bloques** | Las partes que conforman un módulo. Dentro de Build to Understand: Herramientas Digitales, Equipos Colaborativos, Ship Standard, Comunicación Efectiva, Storytelling, etc. |
 
 ### 3.2 Módulos del programa
 
 | Módulo | Documentación |
 |---|---|
-| **Año 1: Build to Understand** | Documento detallado disponible ("Módulo — Build to Ship"). **Énfasis:** trabajo colaborativo, comunicación y pitch, apoyados en tecnología (Git, IA agéntica) como medio. |
+| **Año 1: Build to Understand** | Documento detallado disponible ("Módulo — Build to Understand"). **Énfasis:** trabajo colaborativo, comunicación y pitch, apoyados en tecnología (Git, IA agéntica) como medio. |
 | **Año 2: Build to Ship** | Por definir. **Énfasis:** validar la viabilidad del proyecto, respondiendo a la pregunta *"¿es una necesidad real?"*. |
 
 ---
