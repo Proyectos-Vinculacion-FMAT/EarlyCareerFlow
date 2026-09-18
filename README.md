@@ -1,7 +1,6 @@
 # EARLY CAREER FLOW
-### *Semillero de Talento* — Marco General
+### *Semillero de Talento* 
 
-> **Documento conceptual** 
 
 ---
 
@@ -63,7 +62,7 @@ flowchart TD
 
 | Nivel | Descripción |
 |---|---|
-| **Programa** | Early Career Flow — formado por 2 o 3 módulos en total (aún por confirmar el número exacto). |
+| **Programa** | Early Career Flow — formado por 2 o 3 módulos en total. |
 | **Módulo** | Una unidad completa dentro del programa. Ejemplo: **Build to Understand**. |
 | **Bloques** | Las partes que conforman un módulo. Dentro de Build to Understand: Herramientas Digitales, Equipos Colaborativos, Ship Standard, Comunicación Efectiva, Storytelling, etc. |
 
@@ -71,8 +70,20 @@ flowchart TD
 
 | Módulo | Documentación |
 |---|---|
-| **Año 1: Build to Understand** | Documento detallado disponible ("Módulo — Build to Understand"). **Énfasis:** trabajo colaborativo, comunicación y pitch, apoyados en tecnología (Git, IA agéntica) como medio. |
+| **Año 1: Build to Understand** | [Documento detallado disponible →](https://github.com/Proyectos-Vinculacion-FMAT/EarlyCareerFlow/blob/main/buildtounderstand.md) **Énfasis:** trabajo colaborativo, comunicación y pitch, apoyados en tecnología (Git, IA agéntica) como medio. |
 | **Año 2: Build to Ship** | Por definir. **Énfasis:** validar la viabilidad del proyecto, respondiendo a la pregunta *"¿es una necesidad real?"*. |
+
+---
+
+
+**Early Career Flow (Build to Understand) — Estructura de precios**
+
+| Curso | Contenido | Precio |
+|---|---|---|
+| **Curso 1** | Herramientas Digitales | $200 MXN |
+| **Curso 2** | Equipos Colaborativos | $200 MXN |
+| **Curso 3** | Ship Standard | $200 MXN |
+| **Programa Completo** | Los 3 cursos incluidos | **$500 MXN** |
 
 ---
 
