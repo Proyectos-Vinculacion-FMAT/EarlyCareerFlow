@@ -61,13 +61,13 @@ El módulo evalúa así **tres dimensiones complementarias**: conceptualización
 
 *Fechas confirmadas hasta el momento:*
 
-| Fase | Bloque | Fecha |
-|---|---|---|
-| **1** | Herramientas Digitales | 19 de septiembre de 2026 |
-| **2** | Equipos Colaborativos | 26 de septiembre de 2026 |
-| **3** | Ship Standard | 10 de octubre de 2026 |
-| **4** | Comunicación Efectiva | Noviembre 2026 — fecha exacta por definir (2–3 ensayos de pitch) |
-| **5** | Storytelling | Diciembre 2026 — TBD |
+| Fase | Bloque | Fecha | Lugar | Horario |
+|---|---|---|---|---|
+| **1** | Herramientas Digitales | 19 de septiembre de 2026 | CC4 | 9:00–13:00 |
+| **2** | Equipos Colaborativos | 26 de septiembre de 2026 | CC4 | 9:00–13:00 |
+| **3** | Ship Standard | 10 de octubre de 2026 | Por definir | Por definir |
+| **4** | Comunicación Efectiva | Noviembre 2026 — fecha exacta por definir (2–3 ensayos de pitch) | Por definir | Por definir |
+| **5** | Storytelling | Diciembre 2026 — TBD | Por definir | Por definir |
 
 ```mermaid
 gantt
